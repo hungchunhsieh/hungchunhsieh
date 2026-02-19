@@ -1,18 +1,20 @@
-- 👋 Hi, I’m @hungchunhsieh
-- 👀 I’m interested in ...
-  - Android App, Web frontend/backend development
-  - Making my own cocktail at home
+- 👋 Hi, I'm @hungchunhsieh
+- 👀 I'm interested in ...
+  - Frontend architecture & scalable web applications (Angular, Nx Monorepo)
+  - Cross-platform development (Web, React Native, Android)
+  - Building reusable component libraries & design systems
+  - Making my own cocktail at home 🍸
+- 🌱 I'm currently learning ...
+  - Angular 19/20 Signals & Standalone Components
+  - Advanced state management patterns (RxState, Facade/Adapter patterns)
+- 💼 Previously ...
+  - 7 years at **Google** as a Software Engineer & Global TypeScript Code Reviewer
+  - Frontend Engineer at **Microsoft** (KGI Bank)
+  - Senior Frontend Engineer at **Neutec Limited**
+- 💞️ I'm looking to collaborate on ...
+  - Angular ecosystem projects
+  - Developer tooling & DX improvements
+  - Open-source component libraries
 - 📫 How to reach me ...
   - Email: hungchun.hsieh@gmail.com
-  - www.linkedin.com/in/hung-chun-hsieh
-
-<!---
-hungchunhsieh/hungchunhsieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @hungchunhsieh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+  - [LinkedIn](https://www.linkedin.com/in/hung-chun-hsieh)
